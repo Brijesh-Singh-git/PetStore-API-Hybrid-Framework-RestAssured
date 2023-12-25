@@ -7,3 +7,7 @@
 ![dataDriven](https://github.com/Brijesh-Singh-git/PetStore-API-Hybrid-Framework-RestAssured/assets/106757278/a6f91e40-add4-4668-b43d-4019dcdafb0a)
 
 
+![cmd](https://github.com/Brijesh-Singh-git/PetStore-API-Hybrid-Framework-RestAssured/assets/106757278/426cae53-ab8d-4f6e-9c08-fcbff1775a0f)
+
+![pom](https://github.com/Brijesh-Singh-git/PetStore-API-Hybrid-Framework-RestAssured/assets/106757278/9537f503-c187-4854-88eb-eaff5df15ee0)
+
