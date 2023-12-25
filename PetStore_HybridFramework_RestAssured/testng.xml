@@ -10,7 +10,9 @@
         <classes>
             <!-- <class name="api.test.UserTests"/> -->
 
-            <class name="api.test.UserTests"/>
+<!--            <class name="api.test.UserTests"/>-->
+
+            <class name="api.test.UserTests2"/>
 
             <!-- <class name="api.test.DDTests"/>  -->
         </classes>
